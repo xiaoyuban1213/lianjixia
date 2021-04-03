@@ -13,6 +13,6 @@
 
 
 ### 下载地址：
-* [本站下载](https://gitee.com/yuban1213/lianjixia/releases/v2.0.21)
+* [本站下载](https://github.com/xiaoyuban1213/lianjixia/releases/tag/2.0.21)
 * [备用下载](https://xiaoyuban.lanzous.com/b0ddvx6qd)
 
